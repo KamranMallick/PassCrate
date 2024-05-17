@@ -48,6 +48,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 Developed by Kamran Majid
 
 ## Contact:
-For any inquiries or support,please contact majidanwer1964@gmail.com
-linkedIn a/c : linkedin.com/in/kamran-majid-6b1a9b245
+For any inquiries or support,please contact majidanwer1964@gmail.com <br/>
+linkedIn a/c : linkedin.com/in/kamran-majid-6b1a9b245 <br/>
 X(formerly twitter) a/c : https://twitter.com/kamran_Mallick_
