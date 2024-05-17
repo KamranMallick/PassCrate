@@ -131,12 +131,12 @@ const Manager = () => {
         <ToastContainer />
 
 
-        <div className='flex flex-col items-center md:w-[70%] min-h-[81vh] mx-auto gap-4 p-4'>
+        <div className='flex flex-col items-center md:w-[70%] min-h-[80vh] mx-auto gap-4 p-4'>
             <div className='flex flex-col items-center'>
                 <div className="logo font-bold text-lg cursor-pointer">
                     <span className='text-green-400'>&lt;</span>
                     Pass
-                    <span className='text-green-400'>OP/&gt;</span>
+                    <span className='text-green-400'>Crate/&gt;</span>
 
                 </div>
                 <div className='text-green-900'>Your personal password Manager</div>
