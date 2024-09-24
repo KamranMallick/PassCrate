@@ -1,7 +1,7 @@
 # PassCrate - A Password Manager
 
 ## Description
-This Password Manager Web App is designed to help user to save and organize their passwords at place. It provides a user-friendly interface for adding, managing, and editng their passwords . MongoDB is used to store the user data so that data doesn't lost.
+This Password Manager Web App is designed to help user to save and organize their passwords at one place. It provides a user-friendly interface for adding, managing, and editng their passwords . MongoDB is used to store the user data so that data isn't lost.
 
 ## Installation:
 
